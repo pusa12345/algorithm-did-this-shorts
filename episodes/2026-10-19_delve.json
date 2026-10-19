@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why does AI keep saying \"delve\"? 🤖",
+  "beats": [
+    {"kind": "hook", "big": "\"Let's\ndelve.\"", "say": "Why does AI keep saying delve?"},
+    {"kind": "text", "big": "Nobody\ntalks\nlike that.", "say": "Seriously. Nobody talks like that."},
+    {"kind": "stat", "big": "15,000,000", "sub": "medical paper abstracts, 2010 to 2024", "say": "Researchers scanned fifteen million medical paper abstracts."},
+    {"kind": "bars", "bars": [1, 28], "labels": ["expected", "2024"], "sub": "how often \"delves\" appeared", "say": "In 2024, the word delves showed up twenty eight times more often than expected."},
+    {"kind": "text", "big": "So where\ndid it\ncome from?", "say": "So where did it come from?"},
+    {"kind": "text", "big": "Answer A\nor B?", "sub": "humans rate answers, the AI copies the winners", "say": "Chatbots are trained by humans who rate which answers sound best."},
+    {"kind": "text", "big": "\"Delve\"\n= smart", "sub": "a popular theory, not proven", "say": "One popular theory: many raters used delve in everyday business English. So the AI learned, delve sounds smart."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
