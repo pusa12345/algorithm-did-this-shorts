@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why does AI love the em dash — so much?",
+  "beats": [
+    {"kind": "hook", "big": "—", "sub": "the AI's favorite punctuation", "say": "Why is AI obsessed with this little line?"},
+    {"kind": "text", "big": "The\nem dash.", "sub": "many now see it as a sign of AI text", "say": "It's called the em dash. And chatbots can't stop using it."},
+    {"kind": "text", "big": "Most people\ncan't even\ntype one.", "say": "Most people can't even find it on their keyboard."},
+    {"kind": "text", "big": "So who\ntaught it?", "say": "So who taught the AI?"},
+    {"kind": "text", "big": "Old\nbooks.", "sub": "one theory, not proven", "say": "One theory: old books. AI labs fed their models huge piles of digitized print books."},
+    {"kind": "stat", "big": "1,728", "sub": "em dashes in Moby-Dick alone", "say": "Moby Dick alone has one thousand seven hundred twenty eight em dashes."},
+    {"kind": "bars", "bars": [1, 1.3], "labels": ["today", "early 1900s"], "sub": "em dash use in books, reportedly", "say": "Books from the early nineteen hundreds reportedly use about thirty percent more of them than writing today."},
+    {"kind": "text", "big": "It writes\nlike 1900.", "sub": "a robot with a Victorian habit", "say": "So your futuristic chatbot may be writing like it's nineteen hundred."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
