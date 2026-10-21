@@ -157,7 +157,7 @@ def visual(im, beat, lt, dur):
             lw = d.textlength(lab, font=lf)
             d.text((xs[i] + (bw - lw) / 2, base + 22), lab, font=lf, fill=DIM)
             vf = font(FB, 84)
-            vt = f"{v:g}×" if i else "1×"
+            vt = beat["values"][i] if beat.get("values") else (f"{v:g}×" if i else "1×")
             vw = d.textlength(vt, font=vf)
             d.text((xs[i] + (bw - vw) / 2, base - hgt - 100), vt, font=vf, fill=col + (int(255 * g),))
     if sub:

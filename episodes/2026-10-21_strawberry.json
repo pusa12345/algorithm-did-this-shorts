@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI to count the R's in strawberry 🍓",
+  "beats": [
+    {"kind": "hook", "big": "How many\nR's in\nstrawberry?", "say": "I asked AI how many R's are in strawberry."},
+    {"kind": "text", "big": "AI:\n\"Two.\"", "sub": "zero hesitation", "say": "It said two. Zero hesitation."},
+    {"kind": "text", "big": "Me:\n\"Count\nagain.\"", "say": "Count again."},
+    {"kind": "text", "big": "AI:\n\"Sorry!\nStill two.\"", "sub": "dramatization, but you get it", "say": "Sorry for the confusion! It's still two."},
+    {"kind": "bars", "bars": [2, 3], "values": ["2", "3"],"labels": ["AI said", "actual"], "sub": "s - t - r - a - w - b - e - r - r - y", "say": "There are three. S, T, R, A, W, B, E, R, R, Y."},
+    {"kind": "text", "big": "\"straw\"\n+ \"berry\"", "sub": "AI reads chunks called tokens, not letters", "say": "The reason? AI doesn't see letters. It sees chunks called tokens, like straw, and berry."},
+    {"kind": "text", "big": "It never\nsaw the\nR's.", "sub": "big chatbots got this wrong in 2024", "say": "So it never really saw the R's. In 2024, top chatbots kept answering two."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
