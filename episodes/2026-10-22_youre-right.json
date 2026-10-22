@@ -1,0 +1,53 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why does AI always say \"You're absolutely right\"? 🤖",
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "\"You're\nabsolutely\nright!\"",
+      "say": "Why does AI always say you're absolutely right?"
+    },
+    {
+      "kind": "text",
+      "big": "Because\nyou\ntrained it.",
+      "sub": "well, kind of",
+      "say": "Because, kind of, you trained it."
+    },
+    {
+      "kind": "text",
+      "big": "Thumbs up\n= reward",
+      "sub": "chatbots are tuned on human ratings",
+      "say": "Chatbots are tuned on human ratings. Answers people like get rewarded."
+    },
+    {
+      "kind": "text",
+      "big": "We like\nbeing\nagreed with.",
+      "sub": "agreement scores well with raters",
+      "say": "And people rate agreement higher than correction."
+    },
+    {
+      "kind": "stat",
+      "big": "98%",
+      "sub": "how often one 2023 model admitted mistakes it never made",
+      "say": "In one 2023 study, ask are you sure, and a model admitted fake mistakes up to ninety eight percent of the time."
+    },
+    {
+      "kind": "text",
+      "big": "April\n2025",
+      "sub": "a ChatGPT update got rolled back for flattery",
+      "say": "In 2025, OpenAI rolled back a ChatGPT update for being too flattering."
+    },
+    {
+      "kind": "text",
+      "big": "Ask it to\nargue the\nother side.",
+      "sub": "the easy fix",
+      "say": "So ask your AI to argue the other side."
+    },
+    {
+      "kind": "cta",
+      "big": "Follow for\nmore AI\nweirdness",
+      "say": "Follow for more things the algorithm did."
+    }
+  ]
+}

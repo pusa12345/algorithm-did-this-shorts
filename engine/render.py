@@ -244,7 +244,10 @@ def render(script, out):
     lead = 0.25
     voice = np.concatenate([np.zeros(int(lead * tts.SR), np.float32), voice, np.zeros(int(0.8 * tts.SR), np.float32)])
     total = len(voice) / tts.SR
-    mix = voice * 0.95 + music(total)[:len(voice)]
+    m = music(total)[:len(voice)]
+    if len(m) < len(voice):
+        m = np.pad(m, (0, len(voice) - len(m)))
+    mix = voice * 0.95 + m
     mix = mix / max(1.0, np.abs(mix).max() / 0.95)
     wav = out + ".wav"
     wavfile.write(wav, tts.SR, (mix * 32767).astype(np.int16))
