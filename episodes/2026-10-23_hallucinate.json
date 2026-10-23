@@ -1,0 +1,64 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why does AI confidently make stuff up? 🤖",
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "Why does AI\nlie with a\nstraight face?",
+      "say": "Why does AI make things up, with total confidence?"
+    },
+    {
+      "kind": "text",
+      "big": "It's taking\na test.",
+      "sub": "and blank answers score zero",
+      "say": "Because it's basically taking a multiple choice test. And a blank answer scores zero."
+    },
+    {
+      "kind": "text",
+      "big": "\"When is my\nbirthday?\"",
+      "sub": "it doesn't know... but guesses anyway",
+      "say": "Ask it your birthday. If it says I don't know, it gets zero points."
+    },
+    {
+      "kind": "stat",
+      "big": "1 in 365",
+      "sub": "a random date guess can still win",
+      "say": "But a random guess is right one time in three sixty five. So guessing wins."
+    },
+    {
+      "kind": "text",
+      "big": "Guessing\nbeats\nhonesty.",
+      "sub": "OpenAI researchers, 2025",
+      "say": "OpenAI researchers say accuracy-only scoring rewards guessing over honesty."
+    },
+    {
+      "kind": "bars",
+      "bars": [
+        26,
+        75
+      ],
+      "values": [
+        "26%",
+        "75%"
+      ],
+      "labels": [
+        "honest",
+        "guesser"
+      ],
+      "sub": "wrong answers on a fact quiz",
+      "say": "On a fact quiz, a model that always guessed was wrong seventy five percent of the time. One that admits doubt? Twenty six."
+    },
+    {
+      "kind": "text",
+      "big": "\"I don't\nknow\" is\nprogress.",
+      "sub": "the fix: punish confident errors",
+      "say": "The fix? Punish confident errors more than I don't know."
+    },
+    {
+      "kind": "cta",
+      "big": "Follow for\nmore AI\nweirdness",
+      "say": "Follow for more things the algorithm did."
+    }
+  ]
+}
