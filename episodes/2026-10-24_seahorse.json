@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI for the seahorse emoji 🐴",
+  "beats": [
+    {"kind": "hook", "big": "Show me the\nseahorse\nemoji.", "say": "I asked AI to show me the seahorse emoji."},
+    {"kind": "text", "big": "AI:\n\"Sure!\nTropical fish!\"", "sub": "condensed, but this really happened", "say": "Sure! Here it is. Tropical fish. Wait. No."},
+    {"kind": "text", "big": "\"Horse!\nUnicorn!\nWave?!\"", "sub": "it kept second-guessing itself", "say": "Horse! No, unicorn! Ocean wave? Okay, final answer. Horse."},
+    {"kind": "stat", "big": "0", "sub": "seahorse emojis in Unicode. Ever.", "say": "Here's the twist. There are zero seahorse emojis. There never were."},
+    {"kind": "text", "big": "Proposed\nin 2018.\nRejected.", "sub": "per Emojipedia", "say": "One was proposed in 2018, and it got rejected."},
+    {"kind": "text", "big": "But we all\nremember it.", "sub": "a Mandela effect for humans and bots", "say": "But tons of people swear they remember it. And AI learned from those people."},
+    {"kind": "text", "big": "Seahorse?\nNo emoji.\nPanic.", "sub": "one theory: it grabs the closest emoji, sees it's wrong, retries", "say": "One theory: the AI lands on seahorse, finds no emoji for it, grabs the closest one, sees it's wrong, and spirals."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
