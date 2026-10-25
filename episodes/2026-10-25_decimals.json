@@ -1,0 +1,64 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why does AI think 9.11 is bigger than 9.9? 🤖",
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "9.11\nis bigger\nthan 9.9?",
+      "say": "Why do some AIs think nine point one one is bigger than nine point nine?"
+    },
+    {
+      "kind": "text",
+      "big": "They looked\ninside its\nbrain.",
+      "sub": "Transluce researchers, Llama 3.1",
+      "say": "Researchers at Transluce watched Meta's Llama model compare decimals."
+    },
+    {
+      "kind": "stat",
+      "big": "55%",
+      "sub": "right on 1,280 decimal comparisons",
+      "say": "It got just fifty five percent right. Basically a coin flip."
+    },
+    {
+      "kind": "text",
+      "big": "Bible\nverses.",
+      "sub": "those neurons lit up",
+      "say": "And some neurons lighting up? Bible verses."
+    },
+    {
+      "kind": "text",
+      "big": "Verse 11\ncomes after\nverse 8.",
+      "sub": "one theory: 9.11 reads like a verse",
+      "say": "One theory: it reads nine eleven like chapter nine, verse eleven. Which comes after verse eight."
+    },
+    {
+      "kind": "bars",
+      "bars": [
+        55,
+        76
+      ],
+      "values": [
+        "55%",
+        "76%"
+      ],
+      "labels": [
+        "normal",
+        "Bible off"
+      ],
+      "sub": "after switching off 500 neurons",
+      "say": "Switch off five hundred Bible neurons, and accuracy jumps from fifty five to seventy six percent."
+    },
+    {
+      "kind": "text",
+      "big": "Dates and\nversions\ntoo.",
+      "sub": "in software, 9.11 IS newer than 9.9",
+      "say": "Dates and software versions confuse it too. There, nine eleven really is newer."
+    },
+    {
+      "kind": "cta",
+      "big": "Follow for\nmore AI\nweirdness",
+      "say": "Follow for more things the algorithm did."
+    }
+  ]
+}
