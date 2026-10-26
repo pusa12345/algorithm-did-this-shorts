@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "AI can't read a clock 🕒",
+  "beats": [
+    {"kind": "hook", "big": "Can AI\nread a\nclock?", "say": "Can AI read a clock? Barely."},
+    {"kind": "stat", "big": "180", "sub": "analog clocks, ClockBench test, 2025", "say": "In 2025, a test called ClockBench showed top AI models 180 analog clocks."},
+    {"kind": "bars", "bars": [13, 89], "values": ["13%", "89%"], "labels": ["best AI", "humans"], "sub": "read the time correctly", "say": "Humans got the time right eighty nine percent of the time. The best AI? Thirteen percent."},
+    {"kind": "text", "big": "Off by\nan hour.", "sub": "the AI's typical miss", "say": "And when it missed, it was usually off by about an hour."},
+    {"kind": "stat", "big": "3%", "sub": "accuracy on Roman numerals", "say": "Roman numerals? Three percent."},
+    {"kind": "text", "big": "The math\nwas fine.", "sub": "the problem was seeing the hands", "say": "Weirdly, the math was fine. When it saw the time right, it nailed the calculations. It just couldn't see the hands."},
+    {"kind": "text", "big": "Weird\nclocks are\nrare online.", "sub": "one theory: too few in training data", "say": "One theory: unusual clock faces are rare in its training data."},
+    {"kind": "stat", "big": "83%", "sub": "best AI on the leaderboard today", "say": "Today the best model scores eighty three percent. Still worse than you."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
