@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI for a joke 1,008 times 😐",
+  "beats": [
+    {"kind": "hook", "big": "Tell me\na joke.", "say": "I asked AI to tell me a joke."},
+    {"kind": "text", "big": "AI:\n\"Why don't\nscientists\ntrust atoms?\"", "sub": "\"they make up everything\"", "say": "Why don't scientists trust atoms? Because they make up everything."},
+    {"kind": "text", "big": "Me:\n\"Another\none.\"", "say": "Okay. Another one."},
+    {"kind": "text", "big": "AI:\n\"Why don't\nscientists...\"", "sub": "you know where this is going", "say": "Why don't scientists trust..."},
+    {"kind": "stat", "big": "1,008", "sub": "jokes researchers asked ChatGPT for", "say": "Researchers actually tested this. They asked ChatGPT for a joke one thousand and eight times."},
+    {"kind": "bars", "bars": [25, 1008], "values": ["25", "1,008"], "labels": ["unique", "asked"], "sub": "over 90% were the same 25 jokes", "say": "Over ninety percent were the same twenty five jokes."},
+    {"kind": "text", "big": "#1: the\nscarecrow.\n140 times.", "sub": "\"outstanding in his field\"", "say": "Number one? The scarecrow who won an award for being outstanding in his field. A hundred and forty times."},
+    {"kind": "text", "big": "Memorized,\nnot made up.", "sub": "per the 2023 study by Jentzsch and Kersting", "say": "The study found the AI mostly wasn't inventing jokes. It was reciting ones it had memorized."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
