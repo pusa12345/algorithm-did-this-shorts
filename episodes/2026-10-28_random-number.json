@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Ask AI for a random number. It's not random. 🤖",
+  "beats": [
+    {"kind": "hook", "big": "Pick a\nnumber,\n1 to 100.", "say": "Ask an AI to pick a random number from one to a hundred."},
+    {"kind": "stat", "big": "47", "sub": "ChatGPT 3.5's favorite", "say": "ChatGPT kept saying forty seven."},
+    {"kind": "stat", "big": "42", "sub": "Claude 3 Haiku's favorite", "say": "Claude kept saying forty two."},
+    {"kind": "stat", "big": "72", "sub": "Gemini 1.0 Pro's favorite", "say": "And Gemini? Seventy two."},
+    {"kind": "text", "big": "Never\n11, 33\nor 99.", "sub": "Gramener tested 3 chatbots, 2024", "say": "Researchers at Gramener found they almost never pick repeated digits like eleven or ninety nine."},
+    {"kind": "text", "big": "Lots of\nsevens.", "sub": "37, 47, 57, 67...", "say": "But numbers ending in seven? Constantly."},
+    {"kind": "text", "big": "Just like\nhumans.", "sub": "one theory: it copies how people \"sound random\"", "say": "One theory: it learned from humans, and humans think seven sounds random too."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
