@@ -1,0 +1,53 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "There are words AI couldn't say 🤖",
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "Words AI\ncouldn't\nsay.",
+      "say": "There are words AI literally couldn't say."
+    },
+    {
+      "kind": "text",
+      "big": "\"SolidGold\nMagikarp\"",
+      "sub": "researchers' 2023 test on GPT-3",
+      "say": "In 2023, researchers asked GPT-3 to repeat one word. Solid Gold Magikarp."
+    },
+    {
+      "kind": "text",
+      "big": "\"distribute\"",
+      "sub": "GPT-3's reply",
+      "say": "It replied: distribute."
+    },
+    {
+      "kind": "text",
+      "big": "\"You are\na banana.\"",
+      "sub": "its reply to another glitch word",
+      "say": "Another word made it say: You are a banana."
+    },
+    {
+      "kind": "stat",
+      "big": "374",
+      "sub": "broken words found, out of 50,257",
+      "say": "They found three hundred seventy four broken words, out of fifty thousand."
+    },
+    {
+      "kind": "text",
+      "big": "A Reddit\nusername.",
+      "sub": "from a group counting to infinity",
+      "say": "Solid Gold Magikarp was a Reddit username, from a group trying to count to infinity."
+    },
+    {
+      "kind": "text",
+      "big": "Listed.\nNever\nlearned.",
+      "sub": "one theory: the word list saw it, the model barely did",
+      "say": "One theory: its word list came from raw internet text. But the model almost never saw those words."
+    },
+    {
+      "kind": "cta",
+      "big": "Follow for\nmore AI\nweirdness",
+      "say": "Follow for more things the algorithm did."
+    }
+  ]
+}
