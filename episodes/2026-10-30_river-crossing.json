@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI to get a farmer across a river 🐔",
+  "beats": [
+    {"kind": "hook", "big": "A farmer.\nTwo chickens.\nOne boat.", "say": "A farmer, two chickens, and one boat."},
+    {"kind": "text", "big": "Boat fits\n1 person +\n2 animals.", "sub": "how many crossings?", "say": "The boat fits one person and two animals. How many crossings does he need?"},
+    {"kind": "text", "big": "You:\n\"...one?\"", "say": "Obviously. One."},
+    {"kind": "text", "big": "AI:\n\"Step 1: take\nchicken A...\"", "sub": "\"Step 2: return alone...\"", "say": "AI: Step one. Take the first chicken across. Step two. Return alone."},
+    {"kind": "bars", "bars": [1, 5], "values": ["1", "5"], "labels": ["needed", "AI"], "sub": "crossings, in one 2024 test", "say": "In one test, an AI needed five crossings."},
+    {"kind": "text", "big": "\"The farmer\ndoesn't need\nto cross.\"", "sub": "someone actually told GPT-4o this", "say": "Someone even told GPT-4o the farmer doesn't need to cross at all."},
+    {"kind": "stat", "big": "9", "sub": "crossings GPT-4o planned anyway", "say": "It planned nine crossings anyway."},
+    {"kind": "text", "big": "Wrong\npuzzle.", "sub": "one theory: it recites the famous wolf, goat and cabbage answer", "say": "One theory: it spots the famous wolf, goat and cabbage puzzle, and recites that answer instead of reading yours."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
