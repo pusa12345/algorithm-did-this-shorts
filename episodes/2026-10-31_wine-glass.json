@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "AI couldn't draw a full glass of wine 🍷",
+  "beats": [
+    {"kind": "hook", "big": "Draw a FULL\nglass of\nwine.", "say": "For years, AI could not draw a full glass of wine."},
+    {"kind": "text", "big": "It always\nstopped\nhalfway.", "sub": "DALL-E, Imagen 3, Grok 3, Flux", "say": "Ask for a glass filled to the brim, and DALL-E, Imagen, Grok and Flux all poured you half a glass."},
+    {"kind": "text", "big": "To the TOP.\nPlease.", "sub": "still half full", "say": "You could beg. Still half full."},
+    {"kind": "text", "big": "Think of\nevery wine\nphoto ever.", "sub": "the likely reason", "say": "The likely reason? Think of every wine photo ever posted."},
+    {"kind": "text", "big": "Nobody\npours it\nto the top.", "sub": "so the AI almost never saw one", "say": "Nobody pours wine to the top. So the AI almost never saw a full glass."},
+    {"kind": "text", "big": "It doesn't\nknow what\n\"full\" means.", "sub": "it remixes pictures it has seen", "say": "It doesn't know what full means. It just remixes pictures it has seen."},
+    {"kind": "stat", "big": "2025", "sub": "GPT-4o finally filled the glass", "say": "It took until March twenty twenty five for OpenAI's new image model to finally fill it up."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
