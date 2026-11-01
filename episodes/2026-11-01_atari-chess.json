@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "A 1979 Atari beat ChatGPT at chess ♟️",
+  "beats": [
+    {"kind": "hook", "big": "ChatGPT\nvs. a 1979\nAtari.", "say": "ChatGPT challenged a nineteen seventy nine Atari to a game of chess."},
+    {"kind": "text", "big": "\"I'll easily\nbeat it.\"", "sub": "ChatGPT, before the match", "say": "Before the game, it said it would easily win."},
+    {"kind": "stat", "big": "4 KB", "sub": "the entire Atari chess game", "say": "The Atari's chess game is four kilobytes. That is the whole program."},
+    {"kind": "stat", "big": "1.19 MHz", "sub": "the Atari's processor", "say": "Its chip runs at one point one nine megahertz."},
+    {"kind": "text", "big": "Beginner\nlevel.\nChatGPT lost.", "sub": "GPT-4o, June 2025", "say": "On beginner level, ChatGPT lost. Badly."},
+    {"kind": "text", "big": "It blamed\nthe pieces.", "sub": "said the icons were confusing", "say": "It blamed the Atari's chess icons. They changed them. It still lost."},
+    {"kind": "text", "big": "It mixed up\npieces and\nlost the board.", "sub": "Microsoft Copilot lost too", "say": "It kept mixing up pieces and forgetting where they were. Copilot tried next, and lost too."},
+    {"kind": "text", "big": "It never\nsees a\nboard.", "sub": "it predicts text, not moves", "say": "Why? A chatbot never sees a board. It just predicts the next words that sound like a chess move."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
