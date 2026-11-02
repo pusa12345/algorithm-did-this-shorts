@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I showed AI a dog with 5 legs 🐕",
+  "beats": [
+    {"kind": "hook", "big": "I showed AI\na dog with\n5 legs.", "say": "I showed AI a picture of a dog with five legs."},
+    {"kind": "text", "big": "\"How many\nlegs does\nit have?\"", "sub": "one simple question", "say": "One simple question. How many legs does it have?"},
+    {"kind": "text", "big": "AI:\n\"4.\"", "sub": "zero hesitation", "say": "Four. Zero hesitation."},
+    {"kind": "text", "big": "\"Count\nagain.\"", "sub": "AI: \"4.\"", "say": "Count again, please. Four."},
+    {"kind": "text", "big": "A famous\n3-stripe logo.\nWith 4 stripes.", "sub": "AI: \"3 stripes.\"", "say": "Then a famous three stripe shoe logo, with a fourth stripe added. It said three."},
+    {"kind": "stat", "big": "2%", "sub": "extra legs counted right, 2025 study", "say": "In a 2025 study, top AI models counted the extra legs right only about two percent of the time."},
+    {"kind": "bars", "bars": [100, 17], "values": ["100%", "17%"], "labels": ["normal", "edited"], "sub": "counting accuracy on images", "say": "On normal pictures they scored a hundred percent. On edited ones, seventeen."},
+    {"kind": "text", "big": "It doesn't\nlook. It\nremembers.", "sub": "dogs have 4 legs, so: 4", "say": "Why? It isn't really counting. It knows dogs have four legs, so that's what it sees."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
