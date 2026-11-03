@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why AI clocks always say 10:10 🕙",
+  "beats": [
+    {"kind": "hook", "big": "Ask AI\nfor a clock\nat 3:00.", "say": "Ask an AI to make a clock showing three o'clock."},
+    {"kind": "stat", "big": "10:10", "sub": "what you'll probably get", "say": "You'll probably get ten past ten. Again."},
+    {"kind": "text", "big": "Every\nwatch ad\ndoes this.", "sub": "the classic pose in watch marketing", "say": "That's because almost every watch ad online is set to ten ten."},
+    {"kind": "text", "big": "Hands\nframe\nthe logo.", "sub": "they never cover the brand name", "say": "At ten ten, the hands frame the logo instead of covering it."},
+    {"kind": "text", "big": "It looks\nlike a\nsmile.", "sub": "Frontiers in Psychology study, 2017", "say": "And a 2017 study found the pose reminds people of a smile."},
+    {"kind": "text", "big": "So AI\nlearned\n10:10.", "sub": "its training photos are full of it", "say": "So the AI learned from a sea of photos stuck at ten ten, and now it barely knows any other time."},
+    {"kind": "text", "big": "Try it\nyourself.", "sub": "tell me what time you got", "say": "Try it yourself, and tell me in the comments what time you got."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
