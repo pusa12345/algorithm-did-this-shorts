@@ -1,0 +1,70 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "Why every AI story stars the same man 🗼",
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "Ask AI\nfor a short\nstory.",
+      "say": "Ask an AI to write you a short story."
+    },
+    {
+      "kind": "text",
+      "big": "Meet\nElias.",
+      "sub": "the lighthouse keeper",
+      "say": "There's a good chance you'll meet Elias. The lighthouse keeper."
+    },
+    {
+      "kind": "stat",
+      "big": "20,000",
+      "sub": "AI stories analyzed by Cornell researchers",
+      "say": "Cornell researchers had four big chatbots write twenty thousand stories."
+    },
+    {
+      "kind": "bars",
+      "sub": "stories built from the same 11 names and jobs",
+      "bars": [
+        12,
+        88
+      ],
+      "labels": [
+        "other",
+        "same 11"
+      ],
+      "say": "The same eleven names and jobs showed up in eighty eight percent of them.",
+      "values": [
+        "12%",
+        "88%"
+      ]
+    },
+    {
+      "kind": "text",
+      "big": "Nearly\ntwo-thirds",
+      "sub": "starred Elias the lighthouse keeper",
+      "say": "And Elias the lighthouse keeper starred in nearly two thirds."
+    },
+    {
+      "kind": "text",
+      "big": "Not from\nany book.",
+      "sub": "researchers couldn't trace him",
+      "say": "He doesn't come from any famous book. Researchers couldn't trace him at all."
+    },
+    {
+      "kind": "text",
+      "big": "Too\nsafe?",
+      "sub": "one theory: safety training narrowed the choices",
+      "say": "One theory: safety training steers AI away from risky stories, so it keeps landing on the safest guy in the room."
+    },
+    {
+      "kind": "text",
+      "big": "Try it\nyourself.",
+      "sub": "who starred in yours?",
+      "say": "Try it yourself, and tell me in the comments who showed up."
+    },
+    {
+      "kind": "cta",
+      "big": "Follow for\nmore AI\nweirdness",
+      "say": "Follow for more things the algorithm did."
+    }
+  ]
+}
