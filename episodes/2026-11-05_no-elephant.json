@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI for a room with NO elephant 🐘",
+  "beats": [
+    {"kind": "hook", "big": "A room with\nNO elephant.\nEasy, right?", "say": "I asked AI to draw a room with no elephant in it."},
+    {"kind": "text", "big": "\"Here's\nyour room.\"", "sub": "there is an elephant in it", "say": "Here's your room. There is an elephant in it."},
+    {"kind": "text", "big": "\"A man\nwithout\na beard.\"", "sub": "AI: adds a beard", "say": "Okay. A man without a beard. He has a beard."},
+    {"kind": "text", "big": "The pink\nelephant\nparadox", "sub": "Seoul National University, 2024", "say": "Researchers in Seoul called this the pink elephant paradox. They found it in Stable Diffusion and DALL-E 3."},
+    {"kind": "text", "big": "\"Don't think\nof a pink\nelephant.\"", "sub": "you just did. so does the AI.", "say": "Don't think of a pink elephant. You just did. And so does the AI."},
+    {"kind": "text", "big": "NOT +\nelephant\n= elephant", "sub": "\"not\" doesn't erase the word", "say": "Adding the word not doesn't erase elephant. The model still hears elephant, loud and clear."},
+    {"kind": "text", "big": "Say what\nyou DO\nwant.", "sub": "\"an empty room\" works better", "say": "The fix? Describe what you want instead. Ask for an empty room."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
