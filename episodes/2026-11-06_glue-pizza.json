@@ -1,0 +1,53 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "title": "Google's AI told people to put glue on pizza",
+ "beats": [
+  {
+   "kind": "hook",
+   "big": "Put GLUE\non your\npizza.",
+   "say": "Google's AI once told people to put glue on their pizza."
+  },
+  {
+   "kind": "text",
+   "big": "\"Cheese\nnot sticking?\"",
+   "sub": "Google AI Overviews, May 2024",
+   "say": "In 2024, someone asked Google why the cheese slides off their pizza."
+  },
+  {
+   "kind": "stat",
+   "big": "1/8 cup",
+   "sub": "of non-toxic glue, into the sauce",
+   "say": "Its new AI answer: mix about one eighth of a cup of non-toxic glue into the sauce."
+  },
+  {
+   "kind": "stat",
+   "big": "11 years",
+   "sub": "old: a joke Reddit comment",
+   "say": "It came from a joke Reddit comment. Eleven years old. Almost word for word."
+  },
+  {
+   "kind": "text",
+   "big": "\"How many\nrocks should\nI eat?\"",
+   "sub": "it answered that too",
+   "say": "Then people asked how many rocks they should eat. It answered that too."
+  },
+  {
+   "kind": "text",
+   "big": "The source?\nSatire.",
+   "sub": "almost nobody had searched it before",
+   "say": "Google says that came from a satire site. Almost nobody had searched it before."
+  },
+  {
+   "kind": "text",
+   "big": "AI can't\ntell a joke\nfrom a fact.",
+   "sub": "Google later limited forum answers",
+   "say": "The AI couldn't tell a joke from a fact. Google later cut back on forum posts in its answers."
+  },
+  {
+   "kind": "cta",
+   "big": "Follow for\nmore AI\nweirdness",
+   "say": "Follow for more things the algorithm did."
+  }
+ ]
+}
