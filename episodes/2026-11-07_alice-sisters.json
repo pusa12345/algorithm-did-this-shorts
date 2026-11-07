@@ -1,0 +1,64 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "title": "AI failed a riddle a kid can solve",
+ "beats": [
+  {
+   "kind": "hook",
+   "big": "Most AIs\nfailed this.",
+   "say": "Most AI chatbots failed this simple question."
+  },
+  {
+   "kind": "text",
+   "big": "Alice has\n4 brothers\nand 1 sister.",
+   "sub": "How many sisters does her brother have?",
+   "say": "Alice has four brothers and one sister. How many sisters does Alice's brother have?"
+  },
+  {
+   "kind": "stat",
+   "big": "2",
+   "sub": "her sister, plus Alice herself",
+   "say": "The answer is two. Her sister, and Alice herself."
+  },
+  {
+   "kind": "text",
+   "big": "\"Each brother\nhas one\nsister.\"",
+   "sub": "a real AI answer",
+   "say": "Many AIs said one. They forgot Alice is a sister too."
+  },
+  {
+   "kind": "bars",
+   "bars": [
+    65,
+    1
+   ],
+   "labels": [
+    "GPT-4o",
+    "GPT-3.5"
+   ],
+   "sub": "% correct, 2024 study",
+   "say": "In a 2024 study, the best model got it right about sixty five percent of the time. Others, almost never.",
+   "values": [
+    "65%",
+    "~1%"
+   ]
+  },
+  {
+   "kind": "text",
+   "big": "Wrong, but\nvery sure.",
+   "sub": "with made-up reasoning to back it up",
+   "say": "And they were sure of it, inventing reasoning to defend the wrong answer."
+  },
+  {
+   "kind": "text",
+   "big": "Change the\nnumbers,\nit breaks.",
+   "sub": "newer reasoning models do better",
+   "say": "Tweak the numbers, and scores swung wildly. Newer reasoning models do better. Try it yourself."
+  },
+  {
+   "kind": "cta",
+   "big": "Follow for\nmore AI\nweirdness",
+   "say": "Follow for more AI weirdness."
+  }
+ ]
+}
