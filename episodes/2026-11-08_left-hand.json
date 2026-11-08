@@ -1,0 +1,16 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI to draw a LEFT-handed writer ✍️",
+  "beats": [
+    {"kind": "hook", "big": "Draw someone\nwriting with\ntheir LEFT hand.", "say": "I asked AI to draw someone writing with their left hand."},
+    {"kind": "text", "big": "\"Here you\ngo!\"", "sub": "ChatGPT: right hand", "say": "ChatGPT. Here you go. Right hand."},
+    {"kind": "text", "big": "Okay.\nAnother AI.", "sub": "Stable Diffusion 3.5: right hand", "say": "Okay, another AI. Stable Diffusion. Right hand again."},
+    {"kind": "stat", "big": "4 out of 4", "sub": "Grok's pictures: all right-handed", "say": "Grok made four pictures. All four. Right hand."},
+    {"kind": "text", "big": "Why can't\nit find the\nleft hand?", "say": "So why can't AI find the left hand?"},
+    {"kind": "bars", "bars": [1, 9], "labels": ["lefties", "righties"], "sub": "right-handers per left-hander (roughly)", "say": "Only about ten percent of people are left-handed. So most photos AI learned from show a right hand."},
+    {"kind": "text", "big": "It draws\nwhat it saw\nmost.", "sub": "not what you asked for", "say": "It doesn't draw what you asked for. It draws what it saw most."},
+    {"kind": "text", "big": "Try it\nyourself.", "sub": "which hand did you get?", "say": "Try it yourself, and tell us which hand you got."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
