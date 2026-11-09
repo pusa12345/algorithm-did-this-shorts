@@ -1,0 +1,69 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "title": "They made an AI think it was a bridge",
+ "beats": [
+  {
+   "kind": "hook",
+   "big": "They made\nan AI think\nit was a bridge.",
+   "say": "Scientists made an AI think it was a bridge."
+  },
+  {
+   "kind": "text",
+   "big": "No prompt.\nBrain surgery.",
+   "sub": "they edited its insides directly",
+   "say": "Not with a prompt. They reached inside its brain."
+  },
+  {
+   "kind": "bars",
+   "bars": [
+    1,
+    10
+   ],
+   "labels": [
+    "normal max",
+    "turned up"
+   ],
+   "values": [
+    "1x",
+    "10x"
+   ],
+   "sub": "one concept inside Claude: the Golden Gate Bridge",
+   "say": "Anthropic found millions of concepts inside its AI, Claude. They cranked one, the Golden Gate Bridge, to ten times max."
+  },
+  {
+   "kind": "text",
+   "big": "\"What do\nyou look like?\"",
+   "say": "Then they asked it: what do you look like?"
+  },
+  {
+   "kind": "text",
+   "big": "The Golden\nGate Bridge.",
+   "sub": "that's how it imagined itself",
+   "say": "It said it imagined it looked like the Golden Gate Bridge."
+  },
+  {
+   "kind": "text",
+   "big": "$10 to\nspend?",
+   "sub": "\"drive across the bridge and pay the toll\"",
+   "say": "Got ten dollars to spend? Drive across the Golden Gate Bridge and pay the toll."
+  },
+  {
+   "kind": "text",
+   "big": "A love\nstory?",
+   "sub": "a car that can't wait to cross its bridge",
+   "say": "A love story? A car that can't wait to cross its beloved bridge."
+  },
+  {
+   "kind": "stat",
+   "big": "24",
+   "sub": "hours the public could chat with it, May 2024",
+   "say": "It was real. Anyone could chat with it for twenty four hours in May 2024."
+  },
+  {
+   "kind": "cta",
+   "big": "Follow for\nmore AI\nweirdness",
+   "say": "Follow for more AI weirdness."
+  }
+ ]
+}
