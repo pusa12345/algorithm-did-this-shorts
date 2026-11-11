@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I asked AI to draw ONE banana 🍌",
+  "beats": [
+    {"kind": "hook", "big": "Draw me\nONE banana.\nJust one.", "say": "I asked AI to draw one banana. Just one."},
+    {"kind": "text", "big": "\"Here's\nyour banana.\"", "sub": "it is two bananas", "say": "Here's your banana. It is two bananas."},
+    {"kind": "text", "big": "\"ONE banana.\nALONE.\"", "sub": "AI: still two bananas", "say": "Okay. One banana. Alone. Still two bananas."},
+    {"kind": "text", "big": "\"A monkey\nwith a single\nbanana.\"", "sub": "the monkey has two bananas", "say": "Fine. A monkey holding a single banana. The monkey has two bananas."},
+    {"kind": "text", "big": "The lone\nbanana\nproblem", "sub": "Midjourney test, Digital Science, 2023", "say": "A scientist who tried this in Midjourney called it the lone banana problem. Every image had two or more."},
+    {"kind": "text", "big": "Bananas\ncome in\nbunches.", "sub": "one theory: so do the training photos", "say": "One theory: the AI learned from photos where bananas almost always come in bunches."},
+    {"kind": "text", "big": "So it can't\nimagine\njust one.", "sub": "try it yourself. how many did you get?", "say": "So it can't imagine just one. Try it yourself, and tell me how many you got."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
