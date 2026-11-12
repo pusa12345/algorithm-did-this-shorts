@@ -1,0 +1,51 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "title": "Amazon sold products named by a ChatGPT error",
+ "beats": [
+  {
+   "kind": "hook",
+   "big": "\"I cannot\nfulfill this\nrequest.\"",
+   "say": "This was the name of a product for sale on Amazon."
+  },
+  {
+   "kind": "text",
+   "big": "Not a joke.",
+   "sub": "Amazon listings, January 2024",
+   "say": "Not a joke. In January 2024, people found it all over Amazon."
+  },
+  {
+   "kind": "text",
+   "big": "Sellers let\nAI write\nthe titles.",
+   "say": "Some sellers let ChatGPT write their product titles, and never read them."
+  },
+  {
+   "kind": "text",
+   "big": "But the AI\nsaid no.",
+   "sub": "its refusal message became the title",
+   "say": "But the AI refused. And its refusal got posted as the product name."
+  },
+  {
+   "kind": "text",
+   "big": "\"...it goes\nagainst OpenAI\nuse policy.\"",
+   "sub": "a real product name",
+   "say": "I'm sorry, but I cannot fulfill this request, as it goes against OpenAI use policy."
+  },
+  {
+   "kind": "text",
+   "big": "Lawn chairs.\nReligious\nbooks.",
+   "sub": "all named by an error message",
+   "say": "On lawn chairs. On religious books. Dozens of listings."
+  },
+  {
+   "kind": "text",
+   "big": "Nobody\nchecked.",
+   "say": "Nobody checked. Not the seller, and not the store."
+  },
+  {
+   "kind": "cta",
+   "big": "Follow for\nmore AI\nweirdness",
+   "say": "Follow for more things the algorithm did."
+  }
+ ]
+}
