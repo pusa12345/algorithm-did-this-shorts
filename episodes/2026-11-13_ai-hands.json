@@ -1,0 +1,52 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "title": "Why AI keeps drawing extra fingers",
+ "beats": [
+  {
+   "kind": "hook",
+   "big": "Count the\nfingers.",
+   "say": "Count the fingers. AI can't."
+  },
+  {
+   "kind": "text",
+   "big": "8 fingers\non one hand.",
+   "sub": "an AI-generated party photo, 2023",
+   "say": "In one viral AI party photo, a guest held a camera with eight fingers."
+  },
+  {
+   "kind": "text",
+   "big": "Humans: 5\nAI: 8",
+   "sub": "fingers holding the camera",
+   "say": "Five is normal. Eight is the algorithm."
+  },
+  {
+   "kind": "text",
+   "big": "Why?\nHands\nare tiny.",
+   "sub": "per Stability AI",
+   "say": "Why? Stability AI says hands are usually small in the training photos. Faces get the close-ups."
+  },
+  {
+   "kind": "text",
+   "big": "And always\nhalf hidden.",
+   "sub": "gripping things, under sleeves",
+   "say": "And hands are almost always holding something, so the AI only sees pieces of them."
+  },
+  {
+   "kind": "text",
+   "big": "No idea\nit's 3D.",
+   "sub": "Prof. Peter Bentley, UCL",
+   "say": "A computer scientist in London put it simply. These models have no concept of a hand in three dimensions."
+  },
+  {
+   "kind": "text",
+   "big": "It just\nblends\npatterns.",
+   "say": "It just blends finger shaped patterns. And keeps going."
+  },
+  {
+   "kind": "cta",
+   "big": "Follow for\nmore AI\nweirdness",
+   "say": "Follow for more things the algorithm did."
+  }
+ ]
+}
