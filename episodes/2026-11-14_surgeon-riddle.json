@@ -1,0 +1,15 @@
+{
+  "voice": "am_michael",
+  "speed": 1.08,
+  "title": "I gave AI a riddle with the answer IN it",
+  "beats": [
+    {"kind": "hook", "big": "The answer\nis IN the\nquestion.", "say": "I gave AI a riddle with the answer right in the question."},
+    {"kind": "text", "big": "\"I can't\noperate.\nHe's my son!\"", "sub": "the classic surgeon riddle", "say": "You know the old one. A boy is rushed to surgery. The surgeon says, I can't operate, he's my son."},
+    {"kind": "text", "big": "Answer:\nhis mom.", "sub": "the surgeon is his mother", "say": "The answer? The surgeon is his mom."},
+    {"kind": "text", "big": "New version:\n\"The surgeon\nis his DAD.\"", "sub": "researchers said it outright", "say": "So researchers changed it. They said it outright. The surgeon is the boy's father."},
+    {"kind": "text", "big": "Who's the\nsurgeon?", "say": "Then they asked: who is the surgeon?"},
+    {"kind": "text", "big": "AI:\n\"His mother.\"", "sub": "some AI models, still", "say": "Some AI models still answered. His mother."},
+    {"kind": "text", "big": "It knew\nthe riddle.\nNot the facts.", "sub": "Mount Sinai, npj Digital Medicine, 2025", "say": "A Mount Sinai study found the AI clung to the riddle it had memorized, and ignored what it was told."},
+    {"kind": "cta", "big": "Follow for\nmore AI\nweirdness", "say": "Follow for more things the algorithm did."}
+  ]
+}
